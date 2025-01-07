@@ -1,2 +1,1 @@
-# Projeto_De_Leitura_Temperatura_CSV
- 
+Programa criado na linguagem Python para leitura de arquivo CSV
